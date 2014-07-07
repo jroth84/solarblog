@@ -1,0 +1,1 @@
+web: gunicorn --pythonpath="$PWD/solarblog" config.wsgi:application
