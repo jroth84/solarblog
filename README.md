@@ -85,8 +85,8 @@ Here is web1 (from Rackspace) block storage status for guidance in setting up EB
 
 Have run 'terraform apply' by now, and here is the rest of what is needed:
 
-A reference guide is in the [AWS documentation archive](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-using-volumes.html_)
-
+A reference guide is in the [AWS documentation archive](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-using-volumes.html)
+                                                       
 As root, type `lsblk`, and hit ENTER 
 
 And out pukes this to stdout:
